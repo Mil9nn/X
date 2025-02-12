@@ -3,6 +3,7 @@ A responsive layout implementation inspired by X/Twitter's interface, built with
 
 ## Features
 - Responsive three-column layout that adapts to different screen sizes
+- Collapsible sidebars on smaller screens
 - Mobile-first design approach
 - Dark mode interface
 
@@ -11,34 +12,6 @@ A responsive layout implementation inspired by X/Twitter's interface, built with
 - Tailwind CSS
 - SVG icons
 - Responsive design principles
-
-## Layout Structure
-The interface is divided into three main containers:
-
-- Left Sidebar (first container)
-
-Navigation menu
-Logo
-Main action buttons
-User profile snippet
-
-- Main Content (second container)
-
-Post creation interface
-Feed toggle (For you/Following)
-Post display area
-Interaction buttons (reply, repost, like, etc.)
-
-- Right Sidebar (third container)
-
-Search bar
-Premium subscription card
-"What's happening" section
-"Who to follow" suggestions
-
-## Responsive Features
-- Mobile-responsive navigation
-- Collapsible sidebars on smaller screens
 
 ## CSS Classes Structure
 The project utilizes Tailwind CSS utility classes for:
